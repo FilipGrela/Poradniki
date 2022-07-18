@@ -1,5 +1,1 @@
-print("hello!")
-
-number = 123
-
-print(number)
+//radek 123s
